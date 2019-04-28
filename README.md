@@ -1,2 +1,5 @@
-# adversarial_dropout_lm
-Adversarial dropout on Language Modeling
+# Adversarial Dropout on Language Models
+
+The implementation code will be available soon.
+
+
